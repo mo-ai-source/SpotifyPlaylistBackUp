@@ -25,14 +25,22 @@ A tool to backup your Spotify playlists using the Spotify Web API. This project 
 
 Before running the Spotify Playlist Backup tool, ensure you have the following:
 
-- Python 3.x installed on your machine
 - A Spotify Developer account and a registered application
 
 ## Installation
 
 1. Clone the repository:
-
-
+```
+git clone https://github.com/your-username/SpotifyPlaylistBackUp.git
+```
+2. Navigate to the project directory:
+```   
+cd SpotifyPlaylistBackup
+```
+3. Install the required dependencies:
+```
+pip install -r requirements.txt
+```
 ## Usage
 
 1. Run the Flask application:
