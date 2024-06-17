@@ -37,6 +37,8 @@ Before running the Spotify Playlist Backup tool, ensure you have the following:
 
 1. Run the Flask application:
 
+''' python app.py '''
+
  2. Open your web browser and navigate to `http://localhost:5000`.
 
 3. Click on the "Login with Spotify" button to authenticate with your Spotify account.
