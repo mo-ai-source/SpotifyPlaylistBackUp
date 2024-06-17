@@ -31,7 +31,7 @@ Before running the Spotify Playlist Backup tool, ensure you have the following:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/SpotifyPlaylistBackUp.git
+git clone https://github.com/mo-ai-source/SpotifyPlaylistBackUp.git
 ```
 2. Navigate to the project directory:
 ```   
