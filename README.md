@@ -37,7 +37,10 @@ Before running the Spotify Playlist Backup tool, ensure you have the following:
 
 1. Run the Flask application:
 
-`python app.py`
+```
+python app.py
+
+```
 
 
 
